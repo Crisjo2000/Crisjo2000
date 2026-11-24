@@ -1,67 +1,126 @@
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+<h1 align="center">Hola 👋  soy Christian Hernández / @Crisjo2000 ✨ </h1> 
+
+<p align="left">
+<a href="https://github.com/Crisjo2000" target="blank"><img align="center" src="https://img.shields.io/badge/Github-5e5e5e?style=for-the-badge&logo=github&logoColor=white" alt="@Crisjo2000" /></a>
+<a href="https://www.linkedin.com/in/christian-josué-hernández-juárez-1ba840187/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Crisjo2000"/></a>
+<a href="https://www.facebook.com/christianjosue.hernandezjuarez" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Crisjo2000"/></a>
+<a href = "mailto:crisjoherjua1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Crisjo2000"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
+
+<p align="left">
+🎓 INGENIERO EN INFORMÁTICA
+
+🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+
+💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+
+📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+
+📫 Contacto: **unsimpledev@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
+
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+  
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+  
+</tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
+
+
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
+
+<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
+  <br></br> -->
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="40%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anushka Wijegoonawardana</h1>
+<!--- trophy (start) -->
 
-![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
 
-## About Me :
-
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
-
-<br>
-
-## Connect with me ☕ :
-
-<br>
-
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
-
-<br>
-
-## What I am Good at 🧑‍💻 :
-
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-
-<br>
-
-## GitHub Stats 📈 :
-
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
-
-<br>
-
-## GitHub Thropies 🏆 :
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
-
-<br>
-
-## Activity Graph 📊 :
-
-<br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
-
-Last edited on: 30/06/2022
+</p>        
+<!--- stats (end) -->
